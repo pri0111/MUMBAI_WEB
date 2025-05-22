@@ -1,0 +1,5773 @@
+{
+    "1990":[
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "759.78"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1973.16"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "11.34"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "22.68"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "298006.593"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "843753.6068"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "31761.5924"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "7069.5108"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "10104.4018"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "16638.3436"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2035.1622"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "48.24"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "125.28"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0.72"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1.44"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "34018.4962"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "96317.429"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "3625.697"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "48.24"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "125.28"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0.72"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1.44"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "422.1"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1096.2"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "6.3"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "12.6"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "107089.0668"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "303203.9842"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "11413.5706"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "7796.1708"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "11143.0118"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "18348.5636"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2244.3522"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "500.49"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1299.78"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "7.47"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "14.94"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "3273.98812"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "9269.7254"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "348.9422"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "534.6"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "764.1"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1258.2"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "153.9"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4499.5324"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "11685.3528"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "67.1572"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "134.3144"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "166259.2472"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "470734.0131"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "17719.9383"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "23128.2216"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "33057.0036"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "54433.0872"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "6658.1244"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "662.65747"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1720.93134"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "9.89041"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "19.78082"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "0.11228333"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "0.317910632"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "0.011967176"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "4238.5464"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "6058.1244"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "9975.5688"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1220.1876"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1961.0699"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "5092.9278"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "29.2697"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "58.5394"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "25605.1016"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "72496.372"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "2728.996"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "534.6"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "764.1"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1258.2"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "153.9"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1356.75"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "3523.5"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "20.25"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "40.5"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "138260.902"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "391461.59"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "14735.87"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "6350.454"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "9076.659"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "14946.018"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1828.161"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "5860.1014"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "15218.7708"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "87.4642"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "174.9284"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "101214.775"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "286571.9532"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "10787.4876"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "27962.0352"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "39965.9392"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "65809.6384"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "8049.6768"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "390.80631"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1014.92982"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "5.83293"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "11.66586"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "59804.2224"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "169325.208"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "6373.944"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "300.351744"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "429.290624"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "706.888448"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "86.464896"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "14114.555"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "36655.71"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "210.665"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "421.33"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "6081.20084"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "17217.8578"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "648.1354"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "44073.612"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "62994.102"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "103728.804"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "12687.858"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "19877.225"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "51621.45"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "296.675"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "593.35"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "433073.0508"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1226170.686"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "46156.998"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "96471.936"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "137886.656"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "227050.112"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "27772.224"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "7592.239"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "19717.158"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "113.317"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "226.634"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "40849.4294"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "115658.023"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "4353.739"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "17377.1928"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "24837.0988"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "40897.8376"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "5002.5252"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "37157.128"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "96497.616"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "554.584"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1109.168"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "769992.3114"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2180098.713"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "82065.909"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "270914.688"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "387216.448"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "637607.296"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "77990.592"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "13541.973"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "35168.706"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "202.119"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "404.238"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "323912.9946"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "917103.057"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "34522.701"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "67627.692"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "96659.782"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "159164.164"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "19468.578"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "25182.821"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "65400.162"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "375.863"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "751.726"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "891870.3248"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2525175.016"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "95055.688"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "288443.628"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "412270.438"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "678862.276"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "83036.802"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "102751.2"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "266846.4"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1533.6"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "3067.2"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1483864.538"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "4201303.21"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "158150.53"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "502547.76"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "718287.96"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1182763.92"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "144672.84"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "66861.779"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "173641.038"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "997.937"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1995.874"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "294161.0802"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "832865.709"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "31351.737"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "196796.952"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "281280.492"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "463168.584"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "56653.668"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "79157.15"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "205572.3"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1181.45"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2362.9"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1518988.146"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "4300749.57"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "161894.01"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "808525.08"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1155619.18"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1902892.36"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "232757.22"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "28482.169"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "73968.618"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "425.107"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "850.214"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "230266.5846"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "651959.607"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "24541.851"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "179248.212"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "256198.202"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "421867.004"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "51601.758"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "40834.959"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "106048.998"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "609.477"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1218.954"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "138671.1378"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "392623.101"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "14779.593"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "128294.496"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "183370.416"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "301945.632"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "36933.264"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "25174.245"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "65377.89"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "375.735"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "751.47"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1066364.91"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3019225.95"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "113653.35"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "238030.056"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "340214.676"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "560212.152"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "68523.804"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "38021.361"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "98742.042"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "567.483"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1134.966"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1865189.612"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "5280958.54"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "198792.22"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "695748.24"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "994428.04"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1637468.08"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "200291.16"
+    }
+],
+
+"2000": [
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1380.87"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "3586.14"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "20.61"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "41.22"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "382450.471"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1082841.695"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "40761.635"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "2245.32"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "3209.22"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "5284.44"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "646.38"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "50921.20384"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "144174.4928"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5427.1904"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "96.48"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "250.56"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1.44"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2.88"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1593.403539"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "4511.443755"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "169.825215"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "930.1476"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "2415.6072"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "13.8828"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "27.7656"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "152723.1706"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "432408.977"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "16277.261"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "3706.56"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "5297.76"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "8723.52"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1067.04"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "108.54"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "281.88"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1.62"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "3.24"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "15635.3574"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "44268.783"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "1666.419"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "6530.3024"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "16959.2928"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "97.4672"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "194.9344"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "191367.3398"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "541823.191"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "20395.963"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "8135.424"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "11627.904"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "19147.008"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2342.016"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "511.68034"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1328.84148"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "7.63702"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "15.27404"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "10081.61492"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "28544.3314"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "1074.5002"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "2450.6992"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "6364.5024"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "36.5776"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "73.1552"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "68078.18862"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "192751.4979"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "7255.7847"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "52.482672"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "75.013112"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "123.519824"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "15.108648"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "3189.87"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "8284.14"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "47.61"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "95.22"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "180071.8499"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "509841.9846"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "19192.0878"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "3065.04"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "4380.84"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "7213.68"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "882.36"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "7471.907"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "19404.654"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "111.521"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "223.042"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "161903.6695"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "458401.9557"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "17255.7201"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "10053.7272"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "14369.7212"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "23661.8024"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2894.2548"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1130.3838"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "2935.6236"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "16.8714"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "33.7428"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "69956.965"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "198070.925"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "7456.025"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "459.9936"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "657.4656"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1082.6112"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "132.4224"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "21122.889"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "54856.458"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "315.267"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "630.534"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "16871.43822"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "47768.5299"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "1798.1607"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "32897.1852"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "47019.7142"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "77424.6884"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "9470.4018"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "14038.443"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "36458.046"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "209.529"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "419.058"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "381121.7904"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1079079.768"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "40620.024"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "89427.096"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "127817.516"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "210469.832"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "25744.164"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4560.9513"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "11844.8586"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "68.0739"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "136.1478"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "55904.9322"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "158285.049"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5958.357"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "10502.7912"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "15011.5652"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "24718.6904"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "3023.5308"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "30269.796"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "78611.112"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "451.788"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "903.576"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "765842.4774"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2168349.183"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "81623.619"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "219250.548"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "313373.258"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "516013.916"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "63117.582"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "12800.819"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "33243.918"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "191.057"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "382.114"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "340326.0952"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "963573.884"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "36272.012"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "36125.9712"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "51634.5952"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "85023.7504"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "10399.9008"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "13184.461"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "34240.242"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "196.783"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "393.566"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1094030.686"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3097556.761"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "116601.973"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "264478.5"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "378017.25"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "622459.5"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "76137.75"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "83813.65"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "217665.3"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1250.95"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2501.9"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1378860.574"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3904002.83"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "146959.19"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "478340.28"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "683688.38"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1125790.76"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "137704.02"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "51401.127"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "133489.494"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "767.181"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1534.362"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "338500.643"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "958405.435"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "36077.455"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "187352.352"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "267781.392"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "440940.384"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "53934.768"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "70453.85"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "182969.7"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1051.55"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2103.1"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1144063.7"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3239216.5"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "121934.5"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "824796.72"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1178876.12"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1941188.24"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "237441.48"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "16998.101"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "44144.322"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "253.703"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "507.406"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "182712.0334"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "517317.203"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "19473.479"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "183706.776"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "262570.796"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "432360.392"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "52885.284"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "24115.042"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "62627.124"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "359.926"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "719.852"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "76825.879"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "217519.055"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "8188.115"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "148459.212"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "212191.702"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "349404.004"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "42738.258"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "15923.957"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "41354.754"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "237.671"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "475.342"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "951641.314"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2694406.13"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "101426.09"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "240959.664"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "344401.944"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "567107.088"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "69367.176"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "50191.576"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "130348.272"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "749.128"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1498.256"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1886625.026"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "5341649.17"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "201076.81"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "684010.8"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "977651.8"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1609843.6"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "196912.2"
+    }
+],
+
+"2010":[
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "5343.7793"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "13877.8746"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "79.7579"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "159.5158"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "335435.3745"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "949726.6627"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "35750.75817"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "1211.76"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1731.96"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "2851.92"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "348.84"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "298.99353"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "776.49066"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "4.46259"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "8.92518"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "52726.0903"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "149284.7135"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5619.5555"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "51.309404"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "133.251288"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0.765812"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1.531624"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "426.707814"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1208.14863"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "45.47859"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4399.6957"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "11426.0754"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "65.6671"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "131.3342"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "141729.2396"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "401281.582"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "15105.526"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "260.05518"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "371.69503"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "612.04906"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "74.86437"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1263.553"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "3281.466"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "18.859"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "37.718"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "13672.6564"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "38711.738"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "1457.234"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "1710.72"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "2445.12"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "4026.24"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "492.48"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "10052.278"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "26105.916"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "150.034"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "300.068"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "141270.233"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "399981.985"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "15056.605"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "2460.08664"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "3516.18444"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "5789.90088"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "708.20676"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4082.9532"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "10603.4904"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "60.9396"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "121.8792"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "55759.93618"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "157874.5181"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5942.9033"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "1430.95392"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "2045.25232"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "3367.80064"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "411.94128"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "2500.6611"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "6494.2542"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "37.3233"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "74.6466"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "47919.0374"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "135674.383"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5107.219"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "9121.1472"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "13036.7912"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "21466.9424"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2625.7848"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "3653.5234"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "9488.2548"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "54.5302"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "109.0604"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "143367.1616"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "405919.072"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "15280.096"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "285.12"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "407.52"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "671.04"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "82.08"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4851.9993"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "12600.7146"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "72.4179"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "144.8358"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "189496.5696"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "536526.432"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "20196.576"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "7059.4128"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "10089.9688"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "16614.5776"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "2032.2552"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "484.17617"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "1257.41274"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "7.22651"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "14.45302"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "26146.28484"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "74028.6378"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "2786.6754"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "5.2198344"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "7.4606724"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "12.2850648"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1.5026796"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "12601.561"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "32726.442"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "188.083"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "376.166"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "9847.01874"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "27880.1133"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "1049.4969"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "5572.314"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "7964.469"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "13114.638"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1604.151"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "11448.692"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "29732.424"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "170.876"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "341.752"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "308862.2394"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "874489.473"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "32918.589"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "40600.692"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "58030.282"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "95555.164"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "11688.078"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "3910.589"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "10155.858"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "58.367"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "116.734"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "72746.18"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "205968.1"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "7753.3"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "1222.44804"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1747.23634"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "2877.07468"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "351.91686"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "53734.335"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "139548.87"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "802.005"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1604.01"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "887601.8008"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2513089.436"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "94600.748"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "167297.328"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "239116.888"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "393740.176"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "48161.352"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "16188.607"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "42042.054"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "241.621"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "483.242"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "394628.7124"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1117322.258"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "42059.594"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "15266.2752"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "21819.9792"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "35929.7184"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "4394.8368"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "15578.773"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "40458.306"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "232.519"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "465.038"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1071700.565"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3034332.925"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "114222.025"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "277118.82"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "396083.97"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "652208.94"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "79776.63"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "67176.21"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "174457.62"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1002.63"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2005.26"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1437685.496"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "4070555.32"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "153228.76"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "349180.92"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "499081.82"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "821809.64"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "100521.78"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "55160.698"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "143253.156"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "823.294"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1646.588"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "403450.4006"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1142299.327"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "42999.811"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "83332.26"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "119106.21"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "196125.42"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "23989.59"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "51816.661"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "134568.642"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "773.383"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1546.766"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1296347.286"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "3670380.87"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "138164.91"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "732243.6"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1046590.6"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1723361.2"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "210797.4"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "8718.107"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "22641.054"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "130.121"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "260.242"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "180427.7904"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "510849.768"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "19230.024"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "157888.368"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "225668.728"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "371595.856"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "45452.712"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "13700.428"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "35580.216"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "204.484"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "408.968"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "109985.0596"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "311403.482"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "11722.226"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "152098.848"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "217393.808"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "357970.016"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "43786.032"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "36877.939"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "95772.558"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "550.417"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1100.834"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "925833.792"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2621336.64"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "98675.52"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "134346.168"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "192020.028"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "316188.456"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "38675.412"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "52611.348"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "136632.456"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "785.244"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1570.488"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "2012850.762"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "5699035.29"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "214529.97"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "640941.84"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "916093.64"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1508479.28"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "184513.56"
+    }
+],
+
+"2020":[
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "5422.4507"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "14082.1854"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "80.9321"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "161.8642"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "318440.954"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "901609.93"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "33939.49"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "1",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "24.192561"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "62.828442"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0.361083"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "0.722166"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1789.620768"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "5066.99856"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "190.73808"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "2",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "90.45"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "234.9"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1.35"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2.7"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "194.22"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "549.9"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "20.7"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "3",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "3625.6447"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "9415.8534"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "54.1141"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "108.2282"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "79732.0576"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "225747.392"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "8497.856"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "4",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "39.978967"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "103.825974"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "0.596701"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1.193402"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "4246.6203"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "12023.5635"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "452.6055"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "5",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "2508.4733"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "6514.5426"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "37.4399"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "74.8798"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "96613.66"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "273544.7"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "10297.1"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "29201.04"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "41736.84"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "68725.68"
+    },
+    {
+        "WARD NO": "6",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "8406.36"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1049.9168"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "2726.6496"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "15.6704"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "31.3408"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "7366.69986"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "20857.5237"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "785.1441"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "6208.7256"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "8874.0876"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "14612.4552"
+    },
+    {
+        "WARD NO": "7",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "1787.3604"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1598.2381"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "4150.6482"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "23.8543"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "47.7086"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "66464.4578"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "188182.501"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "7083.793"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "13393.4724"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "19143.1954"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "31522.0108"
+    },
+    {
+        "WARD NO": "8",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "3855.6966"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "3155.4119"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "8194.6518"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "47.0957"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "94.1914"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "135718.1953"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "384262.3603"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "14464.8679"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "9",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "7215.431"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "18738.582"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "107.693"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "215.386"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "99711.33952"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "282315.2384"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "10627.2512"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "983.66004"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1405.93834"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "2315.07868"
+    },
+    {
+        "WARD NO": "10",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "283.17486"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "1490.7232"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "3871.4304"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "22.2496"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "44.4992"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "34408.31732"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "97421.1394"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "3667.2442"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "57.056076"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "81.549846"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "134.283492"
+    },
+    {
+        "WARD NO": "11",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "16.425234"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "5167.6162"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "13420.3764"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "77.1286"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "154.2572"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "2914.74545"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "8252.592539"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "310.6540563"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "12",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "13706.86"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "35596.92"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "204.58"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "409.16"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "264003.8934"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "747480.903"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "28137.579"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "59285.952"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "84736.992"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "139531.584"
+    },
+    {
+        "WARD NO": "13",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "17067.168"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "2515.7562"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "6533.4564"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "37.5486"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "75.0972"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "51905.4029"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "146961.0805"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "5532.0865"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "499.02336"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "713.25056"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1174.46912"
+    },
+    {
+        "WARD NO": "14",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "143.65824"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "47106.159"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "122335.398"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "703.077"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1406.154"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "454310.1446"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1286299.807"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "48420.451"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "136031.544"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "194428.924"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "320155.048"
+    },
+    {
+        "WARD NO": "15",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "39160.596"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "10639.935"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "27632.07"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "158.805"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "317.61"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "186691.1049"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "528583.2487"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "19897.5691"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "55931.04"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "79941.84"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "131635.68"
+    },
+    {
+        "WARD NO": "16",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "16101.36"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "4890.6114"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "12700.9908"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "72.9942"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "145.9884"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "865291.3178"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2449921.201"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "92222.893"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "345483.468"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "493797.078"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "813107.556"
+    },
+    {
+        "WARD NO": "17",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "99457.362"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "67830.8"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "176157.6"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1012.4"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2024.8"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "932664.5094"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2640676.623"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "99403.539"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "479583.72"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "685465.62"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1128717.24"
+    },
+    {
+        "WARD NO": "18",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "138061.98"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "63434.796"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "164741.112"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "946.788"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1893.576"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "311791.2928"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "882782.576"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "33230.768"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "34294.2336"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "49016.5056"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "80712.6912"
+    },
+    {
+        "WARD NO": "19",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "9872.5824"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "62803.187"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "163100.814"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "937.361"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "1874.722"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "588307.9176"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "1665691.092"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "62701.956"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "826939.08"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "1181938.18"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1946230.36"
+    },
+    {
+        "WARD NO": "20",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "238058.22"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "10503.925"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "27278.85"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "156.775"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "313.55"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "88125.46912"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "249511.8704"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "9392.4272"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "182187.72"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "260399.62"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "428785.24"
+    },
+    {
+        "WARD NO": "21",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "52447.98"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "13687.899"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "35547.678"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "204.297"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "408.594"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "33737.75551"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "95522.56077"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "3595.77561"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "146926.692"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "210001.282"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "345797.164"
+    },
+    {
+        "WARD NO": "22",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "42297.078"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "26863.315"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "69764.43"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "400.945"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "801.89"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "913770.572"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "2587181.74"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "97389.82"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "89911.8"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "128510.3"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "211610.6"
+    },
+    {
+        "WARD NO": "23",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "25883.7"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Shrub",
+        "Value": "69723.55"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Shrub",
+        "Value": "181073.1"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Shrub",
+        "Value": "1040.65"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Shrub",
+        "Value": "2081.3"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Waterbody",
+        "Value": "1988584.052"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Waterbody",
+        "Value": "5630328.34"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Waterbody",
+        "Value": "0"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Waterbody",
+        "Value": "211943.62"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Provisioning service of Vegetation",
+        "Value": "449349.12"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Regulating service of Vegetation",
+        "Value": "642251.52"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Supporting service of Vegetation",
+        "Value": "1057559.04"
+    },
+    {
+        "WARD NO": "24",
+        "Service Type": "Cultural service of Vegetation",
+        "Value": "129358.08"
+    }
+]
+}
